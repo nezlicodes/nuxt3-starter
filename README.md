@@ -1,5 +1,7 @@
 # Nuxt 3 Minimal Starter
 
+Nuxt 3 starter template repo with pages, components, layouts & tailwind setup.
+
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
